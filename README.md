@@ -17,7 +17,7 @@
 
 ### Demo Screeshots
 
-![YouTube Premium Membership Box Desktop Demo](./readme-images/YouTube-Premium-Membership-Box.png "Desktop Demo")
+![YouTube Premium Membership Box Desktop Demo](./readme-img/YouTube-Premium-Membership-Box.png "Desktop Demo")
 
 ### Prerequisites
 
